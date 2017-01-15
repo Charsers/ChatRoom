@@ -1,0 +1,4 @@
+python==2.7.11
+pymysql==0.7.9
+twisted==16.2.0
+wxPython==3.0
